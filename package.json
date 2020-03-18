@@ -12,13 +12,14 @@
     "build": "rollup -c ./rollup.config.js"
   },
   "author": "D2L Corporation",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^11.0.2",
     "@rollup/plugin-node-resolve": "^7.1.1",
     "@rollup/plugin-replace": "^2.3.1",
     "@testing-library/dom": "^7.0.3",
     "deepmerge": "^3.2.0",
-    "rollup": "^2.0.6"
+    "rollup": "^2.0.6",
+    "rollup-plugin-license": "^0.13.0"
   }
 }
