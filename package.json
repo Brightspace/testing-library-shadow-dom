@@ -1,6 +1,6 @@
 {
   "name": "@d2l/testing-library-shadow-dom",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Version of @testing-library/dom which provides support for shadow DOM.",
   "main": "lib/index.js",
   "files": [
@@ -17,7 +17,7 @@
     "@rollup/plugin-commonjs": "^11.0.2",
     "@rollup/plugin-node-resolve": "^7.1.1",
     "@rollup/plugin-replace": "^2.3.1",
-    "@testing-library/dom": "^7.0.3",
+    "@testing-library/dom": "^7.14.3",
     "deepmerge": "^3.2.0",
     "rollup": "^2.0.6",
     "rollup-plugin-license": "^0.13.0"
